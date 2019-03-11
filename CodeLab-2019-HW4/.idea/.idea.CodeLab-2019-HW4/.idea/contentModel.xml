@@ -6,6 +6,7 @@
     <e p="D:\UnityDocuments\CodeLab1-2019-HW4\CodeLab-2019-HW4" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="_MyHighScoreFile.txt" t="Include" />
         <e p="Scripts" t="Include">
           <e p="ClickToScore.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
