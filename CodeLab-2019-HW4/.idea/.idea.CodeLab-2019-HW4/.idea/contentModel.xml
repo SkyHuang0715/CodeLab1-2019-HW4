@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\she51\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\she51\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CodeLab-2019-HW4.-1950997125.00" t="ExcludeRecursive" />
-    <e p="D:\UnityDocuments\CodeLab1-2019-HW4\CodeLab-2019-HW4" t="IncludeRecursive">
+    <e p="C:\Users\she51\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CodeLab-2019-HW4.1211737562.00" t="ExcludeRecursive" />
+    <e p="H:\Unity files\CodeLab1-2019-HW4\CodeLab-2019-HW4" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="_MyHighScoreFile.txt" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="BombClick.cs" t="Include" />
           <e p="ClickToScore.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
+          <e p="Spawner.cs" t="Include" />
         </e>
       </e>
       <e p="CodeLab-2019-HW4.sln" t="IncludeFlat" />

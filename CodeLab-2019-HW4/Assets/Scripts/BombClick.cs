@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ClickToScore : MonoBehaviour
+public class BombClick : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,11 +15,11 @@ public class ClickToScore : MonoBehaviour
     {
         
     }
-
+    
     void OnMouseDown()
     {
-        Debug.Log("Clicked on the white cube!");
-        GameManager.instance.Score++;
+        Debug.Log("Clicked on the black cube!");
+        GameManager.instance.Score -= 10;
 
         Destroy(gameObject);
 
